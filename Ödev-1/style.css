@@ -7,8 +7,8 @@ img {
 header,h1 {
     color: chocolate;
     text-align: center;
-    font-size: 40pc;
-    margin: 10pc;
+    font-size: 40px;
+    margin: 10px;
 }
 body {
     color: cadetblue;
@@ -16,7 +16,7 @@ body {
     
 }
 a {
-    margin: 10pc;
+    margin: 10px;
 }
 p {
     color: aqua;
